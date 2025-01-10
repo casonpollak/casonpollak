@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-{% include nav/home.html %}
-
 ## As a conversation Starter
 
 Here are some important places in my life.
@@ -109,39 +107,6 @@ Flags are made using Wikipedia images.
 - 📸 Sports photography is a hobby of mine when I am not playing
 - 👨‍👦‍👦 I have 2 step siblings and 2 biological siblings
 - 🏂 My family and I love snowboarding and we go many times a year.
-
-
-### Culture, and Friends
-
-Here are some things about my culture, friends, and sports.
-
-
-- I am Hungarian, English, and Irish.
-- I have many friends in school but the two friends that I have kept close since second grade are Grant and Samuel. (can be seen in the last picture in the gallery)
-- The gallery of pics has some of me, my family, and my friends.
-
-
-<comment>
-Gallery of Pics, scroll to the right for more ...
-</comment>
-<div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/IMG_4441.PNG" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/IMG_4982.PNG" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/IMG_6340.PNG" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/IMG_7389.PNG" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/IMG_7483.PNG" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/IMG_7388.PNG" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/IMG_7267.PNG" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/IMG_6596.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/IMG_5514.JPG" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/IMG_5501.PNG" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/IMG_5498.PNG" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/IMG_5490.PNG" alt="Image 12">
-  <img src="{{site.baseurl}}/images/about/DSC01753.jpeg" alt="Image 13">
-  <img src="{{site.baseurl}}/images/about/Screenshot 2024-09-06 230622.png" alt="Image 14">
-    
-</div>
-
 
 <script src="https://utteranc.es/client.js"
         repo="{{ site.github_username }}/{{ site.github_repo | default: site.baseurl | remove: "/" }}"
